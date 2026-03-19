@@ -21,5 +21,5 @@ ___________________
 ___________________
 # 📫 Conecte-se comigo
 <div align="center">
-<a href="www.linkedin.com/in/arthur-seixas"><img src="https://images.icon-icons.com/805/PNG/512/linkedin_icon-icons.com_65929.png" width="50"/></a>
+<a href="https://www.linkedin.com/in/arthur-seixas-a02570224/"><img src="https://images.icon-icons.com/805/PNG/512/linkedin_icon-icons.com_65929.png" width="50"/></a>
 </div
