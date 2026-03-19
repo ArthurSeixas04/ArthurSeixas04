@@ -1,9 +1,9 @@
-## 💻 Olá mundo! Eu sou o Arthur 
+## 💻 Olá mundo! Eu sou o Arthur ⚙️
 
   
 ___________________
 
-# ✨Sobre mim
+# 🔧 Sobre mim
 
 Sou estudante de Engenharia da computação, possuo conhecimentos técnicos na área de mecatrônica, possuindo base sólida em sistemas mecânicos, eletrônicos e de automação. Tenho grande interesse por robótica e tecnologia, áreas pelas quais sou entusiasta e busco constantemente me atualizar e explorar novas tendências.
 Atualmente, estou em busca de expandir minhas habilidades na área de programação, com o objetivo de integrar ainda mais meus conhecimentos técnicos e desenvolver soluções inovadoras.
